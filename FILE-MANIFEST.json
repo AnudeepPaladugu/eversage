@@ -1,0 +1,390 @@
+{
+  "app/src/main/java/app/eversage/offline/NativeActivity.java": {
+    "bytes": 28881,
+    "sha256": "846e5884ecf7d709e2167f138fa84f55af03ad57ad20e30b8e93a13a1c164e90"
+  },
+  "app/src/main/java/app/eversage/offline/SituationMatcher.java": {
+    "bytes": 7542,
+    "sha256": "5b8f422e363efcc2cef56c42e2cb786f3d99201098200daa0e37f521f8eda900"
+  },
+  "app/src/main/java/app/eversage/offline/ShareProvider.java": {
+    "bytes": 1145,
+    "sha256": "0bab3454fdada19290bf2dece483556f41236e90634f5a71635825cc17e64d40"
+  },
+  "app/src/main/java/app/eversage/offline/DailyReceiver.java": {
+    "bytes": 951,
+    "sha256": "827e04806941469ac589b536f708cb875f32be400f76f250ba19bf5624f33703"
+  },
+  "app/src/main/AndroidManifest.xml": {
+    "bytes": 1018,
+    "sha256": "4baf3b3af09cbe69d366f00b59b736ed0570aa3882dcd203ba126fa6cb4fe3f7"
+  },
+  "app/src/main/res/drawable/icon.png": {
+    "bytes": 249132,
+    "sha256": "a85f538cedc51d721006828100e1ffd5052e77d287b5640d2b47ddb3f6b2f819"
+  },
+  "app/src/main/res/values/styles.xml": {
+    "bytes": 583,
+    "sha256": "b2e45b803c27e92c2e1b2fbc340f382008065abd4404918bcff9b6e9ed685b81"
+  },
+  "app/src/main/assets/episodes.json": {
+    "bytes": 79792,
+    "sha256": "06c0c8375f7220df2bca68e91636143133bd352f063fd022ed37b750455c4401"
+  },
+  "app/src/main/assets/art/app-icon.webp": {
+    "bytes": 51314,
+    "sha256": "299b6a4e9f8fdfdda781e102c2e0269836cc47142e747e0d00ce33e5beee845b"
+  },
+  "app/src/main/assets/art/home.webp": {
+    "bytes": 175366,
+    "sha256": "09ed8db0580c578a8fd763a1deeaa5c764c48e38667237ad7f216f3b05d9d9fd"
+  },
+  "app/src/main/assets/art/reading.webp": {
+    "bytes": 116422,
+    "sha256": "7b6cf3227985e72359469b3eef88da6c159fccf01f5284115b8e1bddc3d85399"
+  },
+  "app/src/main/assets/art/sage-book.webp": {
+    "bytes": 91198,
+    "sha256": "c57624039f5c950d607ea28599461c4f6e472d515c69e416d662f0b0d4a9d96a"
+  },
+  "app/src/main/assets/art/sage-meditating.webp": {
+    "bytes": 109128,
+    "sha256": "8533974de910e799b208ce13c8fa48f9eb1ed8efa6e44c5c023eafab1af626ed"
+  },
+  "app/src/main/assets/art/sage-reading.webp": {
+    "bytes": 110216,
+    "sha256": "2d0f0f3ed4b1a59d38bbf3c62184d58745f0f997292550792bde637874182d11"
+  },
+  "app/src/main/assets/art/share.webp": {
+    "bytes": 113548,
+    "sha256": "6e04f87035b94bd07baed60f3d46aa19747992a8231402b1240a5ce720b0edc3"
+  },
+  "app/src/main/assets/art/walking.webp": {
+    "bytes": 227004,
+    "sha256": "5efcb2a9d8b6ef62e671934417417470e4ae7089f75bdc790fc0738e7dca4d53"
+  },
+  "app/src/main/assets/art/writing.webp": {
+    "bytes": 91424,
+    "sha256": "42d25465b490a2a723b3bcd6334ce26a87b53b2e71e0ba55c0b5c9b5fe8cffb7"
+  },
+  "artwork/app-icon.png": {
+    "bytes": 1349176,
+    "sha256": "1f3baa6ceed6a151d7043aebb459f24781f77a45959e9bcb0262e08d891868ed"
+  },
+  "artwork/home.png": {
+    "bytes": 2273933,
+    "sha256": "b8fc1883254ff581e0156ab01ce2e8011956656e189c072d837bf5b732bb88ed"
+  },
+  "artwork/reading.png": {
+    "bytes": 2001457,
+    "sha256": "819c8a58f50f737481200105a1b75e4e560f642c7b6a539b6dbfbc773992d25c"
+  },
+  "artwork/sage-book.png": {
+    "bytes": 828239,
+    "sha256": "42a9fc46cace78244d3dca1bc3817e39355e652bdeef81fdfa8a857148e35146"
+  },
+  "artwork/sage-meditating.png": {
+    "bytes": 965508,
+    "sha256": "acad69cc81f5ffb699e3a8633d530bc92d8c217998c781c6b82c6420b34512d2"
+  },
+  "artwork/sage-reading.png": {
+    "bytes": 990755,
+    "sha256": "6108bac40d92d0cc8712d123729f4bc7aab5f28670f36506bd31ed679747395e"
+  },
+  "artwork/share.png": {
+    "bytes": 1600638,
+    "sha256": "b75aa63a7a26e34778f010c25e2b2245c89b9db4c33e76c0ed87d9a07b67e890"
+  },
+  "artwork/walking.png": {
+    "bytes": 2295777,
+    "sha256": "fb1b65f28c12d4c7bcae6d02e200f652b7bac314ee1b43b0507e2024984ea1bc"
+  },
+  "artwork/writing.png": {
+    "bytes": 1740092,
+    "sha256": "d48ec8c8ccf26246f151d7a37e1a1afb8ab48cdc82148da931fc65cc46ae64f9"
+  },
+  "branding/eversage-approved-logo.png": {
+    "bytes": 1126889,
+    "sha256": "6a493d3d9bf0cfbf10c088bd02bd71655ea8e76094e1133be6468d38b403e7a4"
+  },
+  "design-reference/eversage-01-discovery.png": {
+    "bytes": 1847426,
+    "sha256": "4bf9336fbe18a3bb74fbc50967c8aa9f460a7c1e75b4b58f3ed7290dcbf17e6a"
+  },
+  "design-reference/eversage-02-wisdom.png": {
+    "bytes": 2080426,
+    "sha256": "37478db8768a6703557b4009f903e79c7d0494688092626f2b5dd830a17809cb"
+  },
+  "design-reference/eversage-03-library-settings-states.png": {
+    "bytes": 1853877,
+    "sha256": "38ca5d2a3f196b962b57b2816a0958fa3a973d1193afc02b96d687d8bd5a0e63"
+  },
+  "design-reference/eversage-android-concept-v1.png": {
+    "bytes": 1673330,
+    "sha256": "25f76cd54d70cbdcaefa7acb97001ccc5eda73980c8c322ab051c25ac0ce161f"
+  },
+  "design-reference/eversage-android-concept-v2.png": {
+    "bytes": 1889068,
+    "sha256": "fd2d3667c01149f6ad0b637cb333f02cab3afb2650da4715a3eca324a8218198"
+  },
+  "design-reference/eversage-android-concept-v3.png": {
+    "bytes": 1892470,
+    "sha256": "a2daebea2d02b1bde0958ea089ddee5dcd49919651d3a17177a9d9c099f643ed"
+  },
+  "knowledge/episodes/Ancient_Egyptian_wisdom.txt": {
+    "bytes": 1869,
+    "sha256": "c1a1cb9f630108ec758bab6831302a21222d9dfdeb95ab6f0f1a9d03dabff980"
+  },
+  "knowledge/episodes/Bah\u00e1\u2019\u00ed_Faith.txt": {
+    "bytes": 1784,
+    "sha256": "aa61c04bf65f669688ab80b821dff3aaa551bcb6f62a118186489b4212d77e2c"
+  },
+  "knowledge/episodes/Buddhism.txt": {
+    "bytes": 2711,
+    "sha256": "bd459d670467ead5300d3f279222e4a423a9ce6ce1e3143d45ef8373f6169e24"
+  },
+  "knowledge/episodes/Christianity.txt": {
+    "bytes": 4448,
+    "sha256": "78fae0cf74a633f89dcf0b9999facc911b16cee50d8bbfd8d1e57b2b6269d312"
+  },
+  "knowledge/episodes/Confucianism.txt": {
+    "bytes": 1759,
+    "sha256": "1e282d416142bc30e5d32128b8348afad914ede019d512378d1f601aad887615"
+  },
+  "knowledge/episodes/Daoism.txt": {
+    "bytes": 1754,
+    "sha256": "8caf55e4db5aa52d7d284f67505e83079145bd13e78fbf5694cd864dc58a7b90"
+  },
+  "knowledge/episodes/Greek_philosophy.txt": {
+    "bytes": 1737,
+    "sha256": "949e00180e62c44a14e1587e98566839d78df8bba2a1fd13632d6497134f195d"
+  },
+  "knowledge/episodes/Hermetic_philosophy.txt": {
+    "bytes": 1035,
+    "sha256": "bb1e1b3eb5b1516d634b1f0cf95cca8e8cabb5e862da2c7b8e5c834e6691be69"
+  },
+  "knowledge/episodes/Hinduism.txt": {
+    "bytes": 5539,
+    "sha256": "3343b81b33649c5301ecccda5329b99a0360eee2a95025e2b57d25659e44d261"
+  },
+  "knowledge/episodes/Islam.txt": {
+    "bytes": 4406,
+    "sha256": "48fb2c893b83f597960a1b6052c491941e9e859b1b54b5c7f5be39ffe36c74f6"
+  },
+  "knowledge/episodes/Jainism.txt": {
+    "bytes": 1771,
+    "sha256": "d61f0713a499efde3766fe7c230cd46af7f478a7beae37fcf8fb7bb4bc01ef34"
+  },
+  "knowledge/episodes/Judaism.txt": {
+    "bytes": 3417,
+    "sha256": "e954df85400869a8a331008759e736069a5b521f12fbfd2adb6916a9e39bcacf"
+  },
+  "knowledge/episodes/K\u2019iche\u2019_Maya_tradition.txt": {
+    "bytes": 1001,
+    "sha256": "6201f52e3b2cdfac4faa4f58370794ee6abbec39893772a4cf0cae934c3b7ce5"
+  },
+  "knowledge/episodes/Latter-day_Saint_Christianity.txt": {
+    "bytes": 1814,
+    "sha256": "31a83b1901f1a0e3fe68bc25e6517c0f95ed26d488c51231c1b1b0c44921ab02"
+  },
+  "knowledge/episodes/Mahayana_Buddhism.txt": {
+    "bytes": 1911,
+    "sha256": "c3e60e4a60188a88660b8bbb4e080696c950f43c76240780907385628c8241fc"
+  },
+  "knowledge/episodes/Shinto.txt": {
+    "bytes": 1897,
+    "sha256": "f621827c3a9b3a1a93957b3052885bfd15c99aeff02766f3516f5fcef046e22b"
+  },
+  "knowledge/episodes/Sikhism.txt": {
+    "bytes": 1798,
+    "sha256": "4e0c497a9a0a1c3fd40ea2f2e59d0c1778ff03b740f03c4cd9a0c83a32842757"
+  },
+  "knowledge/episodes/Soto_Zen.txt": {
+    "bytes": 1923,
+    "sha256": "b7071c63713973091608e99a81a18426200e62375624f9fd0d7655a39a4a163d"
+  },
+  "knowledge/episodes/Stoicism.txt": {
+    "bytes": 2599,
+    "sha256": "f88b2465205f9c4c0a75d70992d9ec168c88549e85c2e10a4c78cab45dcae487"
+  },
+  "knowledge/episodes/Sufi_wisdom.txt": {
+    "bytes": 986,
+    "sha256": "b4ab14da3fdd5256845e8dbbcc4caf6244e41da272172971d98aaf610530827f"
+  },
+  "knowledge/episodes/Tamil_ethical_wisdom.txt": {
+    "bytes": 1760,
+    "sha256": "649dfdc45c32e0c364eb51d19eda9976151333da4da2c20720b125270b40245e"
+  },
+  "knowledge/episodes/Theravada_Buddhism.txt": {
+    "bytes": 1877,
+    "sha256": "6d59bc3f8c2e56ecd673018fa100cf8217024a2c4f8d7d09ce72020390422aac"
+  },
+  "knowledge/episodes/Zoroastrianism.txt": {
+    "bytes": 1703,
+    "sha256": "1818d7af76f3e82ab33e804b4f1bfad5216da4908e96d65851b9b6477bc0a020"
+  },
+  "legacy/knowledge-text/bahai.txt": {
+    "bytes": 2891,
+    "sha256": "792d7bbbbfc755cbfb7bba9f0f297fa1cb2d757fa1da525b6820afd5b2108186"
+  },
+  "legacy/knowledge-text/buddhist.txt": {
+    "bytes": 2722,
+    "sha256": "4c8e327652b22d34b9f5d40d206584ed41c1a1c498fac44a27ff371b136209c0"
+  },
+  "legacy/knowledge-text/christian.txt": {
+    "bytes": 2611,
+    "sha256": "e55f61ae61653543272ebc6127c38825e574dcc3f20e7a6726b0c325f6ff8de5"
+  },
+  "legacy/knowledge-text/confucian.txt": {
+    "bytes": 2719,
+    "sha256": "0dfd4cb802a6a68d1f2a45e8eb5637531a6050f619f1fcb82354dd1c42198008"
+  },
+  "legacy/knowledge-text/daoist.txt": {
+    "bytes": 2535,
+    "sha256": "01c13202bca1051d4e5ad7b82a45aae326d3f5fe8ea3951a0c35e8eec7fdff37"
+  },
+  "legacy/knowledge-text/egyptian.txt": {
+    "bytes": 3589,
+    "sha256": "af928c5e07e7c4369d5817406ec4010e45299d0d3b295d3e7e57d2467ca2d2a0"
+  },
+  "legacy/knowledge-text/greek.txt": {
+    "bytes": 3332,
+    "sha256": "0f58e4f4b97a9102a505b7fc022949a6ceda027adf124e3d32bc4dc47f014cfd"
+  },
+  "legacy/knowledge-text/hermetic.txt": {
+    "bytes": 2974,
+    "sha256": "9a0fed50c8ba6adeb2166f060443cb081d826118976a33a4314122498d61d38a"
+  },
+  "legacy/knowledge-text/hindu.txt": {
+    "bytes": 2915,
+    "sha256": "0d9c137b22ddb827d0b3fc5d90c2767e64718134f9f33866b93cecd4bf9d490f"
+  },
+  "legacy/knowledge-text/islam.txt": {
+    "bytes": 2722,
+    "sha256": "50d58f150ab75b2f16384b823544220bbb73f73a695d8aeabfd146972f4a87c3"
+  },
+  "legacy/knowledge-text/jain.txt": {
+    "bytes": 3276,
+    "sha256": "0125902ee3c8309d1ec15ca8003c512eb72f3698d2986ba04acbb4f64cf68e9b"
+  },
+  "legacy/knowledge-text/jewish.txt": {
+    "bytes": 2681,
+    "sha256": "52b6febb2d30eec3fca9d6b66cc0b57c6adcf6b501bdba97493cdfb11d0e2da5"
+  },
+  "legacy/knowledge-text/lds.txt": {
+    "bytes": 2641,
+    "sha256": "2f1bbade6c48ed0242b98e496b73612f88b778f8ec9b0348301e48f6b687cb3e"
+  },
+  "legacy/knowledge-text/mahayana.txt": {
+    "bytes": 3305,
+    "sha256": "94aba4f0c010446f84cf0467386264319fd4b9edfd0272cd73d93fd0045d87b0"
+  },
+  "legacy/knowledge-text/maya.txt": {
+    "bytes": 3106,
+    "sha256": "c574c707566a3b40b83b7a2d74621c3fda0aea0576a852bdd9703aea3a87a93a"
+  },
+  "legacy/knowledge-text/shinto.txt": {
+    "bytes": 3019,
+    "sha256": "ae83b3e026fc0360aaba2631cc910c4ed905cac9d732c656fb1c2b6bf917779b"
+  },
+  "legacy/knowledge-text/sikh.txt": {
+    "bytes": 3228,
+    "sha256": "4e0dcd3e81844668e0c69dbf8d1a0b5806f03c061b0a391c4bd80abe1c5d4d94"
+  },
+  "legacy/knowledge-text/stoic.txt": {
+    "bytes": 2613,
+    "sha256": "42faf12760595cd95ba647ad420b0c5f91171acffb898729156ff6802c53f199"
+  },
+  "legacy/knowledge-text/sufi.txt": {
+    "bytes": 2993,
+    "sha256": "b300c46bc7726bc286ed0f2cc814542a7be8c59716bf9892bce5489aafba52b2"
+  },
+  "legacy/knowledge-text/tamil.txt": {
+    "bytes": 2911,
+    "sha256": "2780e98b10027bd01fdef4e81c3c98e6aa6c691f4093f762b7527013d09250a6"
+  },
+  "legacy/knowledge-text/theravada.txt": {
+    "bytes": 2833,
+    "sha256": "397f83db2c05a1d0cc764bdb9734d184c165bb5ea472b8fc4e9b18d8d3e953d6"
+  },
+  "legacy/knowledge-text/zen.txt": {
+    "bytes": 2487,
+    "sha256": "717cfb54499e9c0abf23870ae2fba7672f862a0d1eb7357ddeb6e54db0fb6f93"
+  },
+  "legacy/knowledge-text/zoroastrian.txt": {
+    "bytes": 2584,
+    "sha256": "ede0455e605c5196e14a233512b744141d82f978625dba07e64fbd7be46640f7"
+  },
+  "tools/create_episode_library.py": {
+    "bytes": 58513,
+    "sha256": "ae812ac532842f678fb4a9aee9e2c89807cd75b32cfd3d428003a30b566d82c3"
+  },
+  "tools/generate_text_library.py": {
+    "bytes": 27723,
+    "sha256": "62645419c979b1613d60d14a3a4705c69012fdc41797e90c4799dd1a58cb9063"
+  },
+  "legacy/web/assets/index.html": {
+    "bytes": 417,
+    "sha256": "6acc60321557b1311933aca6da28d9099d954f8f31faed6c6b193825330698f4"
+  },
+  "legacy/web/assets/base.js": {
+    "bytes": 3666,
+    "sha256": "19931c13104948c5dc32e3d7ba5cbd3970eb611d80ffe532358b4d941f771b5f"
+  },
+  "legacy/web/assets/lite.js": {
+    "bytes": 23529,
+    "sha256": "ea41844f81e6d9bdf6b2955c321d6bd7237707e9e3f18697c4c053a2f29b99d5"
+  },
+  "legacy/web/assets/app.css": {
+    "bytes": 9015,
+    "sha256": "16962ee0d1bcc26fd0baec486d029ca016161f22bb6c8df49cba331e4c4a3733"
+  },
+  "legacy/web/assets/knowledge.json": {
+    "bytes": 160897,
+    "sha256": "c0509838c10f1f0516320a3edaa9dd618204c2fa7dc21db3d59c3150dab485e1"
+  },
+  "legacy/web/java/LiteActivity.java": {
+    "bytes": 8510,
+    "sha256": "a31bc10d12b3e53612ca8c87dcd18a83011e109cd28667a1887679807e10c064"
+  },
+  "apk/EverSage-offline.apk": {
+    "bytes": 1393609,
+    "sha256": "3b9ea9e177cad770445a97416d6fb52983b606ba7b1d656ba3878d95dddc0a12"
+  },
+  "apk/SHA256.txt": {
+    "bytes": 88,
+    "sha256": "8bca6c427991e161f268079560f46bf1b51377f79ecb4c79057972ce05996c74"
+  },
+  "apk/signature-verification.txt": {
+    "bytes": 981,
+    "sha256": "5696ffa4eb7e37257f45aea3df9939a811b7229d61951c9a60ac62931b3290e1"
+  },
+  "apk/build-report.json": {
+    "bytes": 590,
+    "sha256": "eda331d1b6acecd9bd79fc61be6d0b7cb3d234407bb46ea387809a5276cf3d02"
+  },
+  "settings.gradle.kts": {
+    "bytes": 270,
+    "sha256": "3bdc03018cf6debedd33d6054179dbe1de583741e925bb0d865b81b340787e1b"
+  },
+  "build.gradle.kts": {
+    "bytes": 70,
+    "sha256": "3171f812360cad9bdc98a6ea83d49124024409267200fa383acccac0cf4d261f"
+  },
+  "app/build.gradle.kts": {
+    "bytes": 418,
+    "sha256": "3203e9d35429ed77dc7b2b1831c0fd49a03ae7c4acd204cf8ce79ec3d98a86bb"
+  },
+  ".gitignore": {
+    "bytes": 71,
+    "sha256": "ba507fb8ca7969c2a57b8f245b5630ef1cec8c4a266d3681fcce9a27994e303e"
+  },
+  "README.md": {
+    "bytes": 2471,
+    "sha256": "cf3b66098129c40f1bd0056d1f739e6cd86fb97ce24065b44ae79cb362a8358f"
+  },
+  "UPLOAD.md": {
+    "bytes": 226,
+    "sha256": "0fdeff61cb12b3428fcffbae11be5d0796de180936bf57c0af26c8773c529a0b"
+  }
+}

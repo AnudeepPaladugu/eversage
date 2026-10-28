@@ -1,0 +1,21 @@
+{
+  "apk": "EverSage-offline.apk",
+  "version": "0.3.0",
+  "bytes": 1393609,
+  "sha256": "3b9ea9e177cad770445a97416d6fb52983b606ba7b1d656ba3878d95dddc0a12",
+  "minimum_android": "8.0",
+  "tradition_groups": 23,
+  "source_episodes": 57,
+  "native_android_views": true,
+  "topic_groups": 10,
+  "artwork_assets": 9,
+  "pdfs_bundled": 0,
+  "ocr_required": false,
+  "ai_model_required": false,
+  "internet_permission": false,
+  "account_required": false,
+  "signature_verified": true,
+  "phone_runtime_tested": false,
+  "build_seconds": 10.8,
+  "matcher_checks_passed": 7
+}
