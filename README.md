@@ -32,6 +32,45 @@ EverSage is an early native Android build that keeps its episode data bundled wi
 
 Coverage is still limited. Some traditions and situations will not have a close match, and this prototype should not be treated as an exhaustive scripture or cultural reference library.
 
+## 🎨 Artwork gallery
+
+EverSage already includes its own illustration and app artwork. The README now showcases those existing assets directly, so the portfolio page reflects the visual identity of the actual project rather than relying only on a new banner.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="artwork/home.png" alt="EverSage home artwork" width="100%" />
+      <br /><sub><b>Home</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="artwork/reading.png" alt="EverSage reading artwork" width="100%" />
+      <br /><sub><b>Reading</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="artwork/sage-book.png" alt="EverSage sage and book illustration" width="100%" />
+      <br /><sub><b>Wisdom and stories</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="artwork/writing.png" alt="EverSage writing illustration" width="100%" />
+      <br /><sub><b>Reflection</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="artwork/walking.png" alt="EverSage walking illustration" width="100%" />
+      <br /><sub><b>Mindful moments</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="branding/eversage-approved-logo.png" alt="EverSage approved logo" width="78%" />
+      <br /><sub><b>Project identity</b></sub>
+    </td>
+  </tr>
+</table>
+
+More included artwork: [App icon](artwork/app-icon.png) · [Sage reading](artwork/sage-reading.png) · [Sage meditating](artwork/sage-meditating.png) · [Share illustration](artwork/share.png)
+
 ## 🗂 Repository guide
 
 | Path | Purpose |
